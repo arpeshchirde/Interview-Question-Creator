@@ -3,13 +3,13 @@ How to run:
 
 Create an environment
 
-1.source activate base
+    1.source activate base
 
-2.conda create -n interview python=3.10 -y
+    2.conda create -n <environment name> python=3.10 -y
 
-3.conda activate interview
+    3.conda activate <environment name>
 
-4.conda activate interview
+    4.conda activate <environment name>
 
 GitHub commands
 1. git clone https://github.com/
