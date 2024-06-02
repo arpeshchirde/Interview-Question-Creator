@@ -7,7 +7,7 @@ list_of_files = ['src/__init__.py',
                  'src/helper.py',
                  'src/prompt.py',
                  '.env',
-                 'requirement.txt',
+                 'requirements.txt',
                  'setup.py',
                  'reasearch/trials.ipynb',
                  'app.py'
